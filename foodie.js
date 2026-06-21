@@ -100,6 +100,7 @@ let amount=products[size].price;
   console.log(cash);
 total.innerHTML=`Total: $${parseFloat(cash).toFixed(2)}`;
   let no=1; 
+  console.log(no)
 let items=document.createElement("div")
   items.setAttribute("class","items");
   items.innerHTML=`<img src=${products[size].image} width="60px" height="60px">

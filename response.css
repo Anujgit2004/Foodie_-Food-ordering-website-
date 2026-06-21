@@ -1,0 +1,794 @@
+@media (max-width:450px) {
+    .navbar{
+        display: none;        
+    }
+    .header{
+        justify-content:space-between;
+    
+    }
+    .navbar2{
+        left: 10%;
+        top: 1%;
+    }
+    .login #hide{
+        display: block;
+        font-size: 27px;
+        
+    }
+    .login button{
+        display: none;
+    }
+    .middle_1{
+        height: auto;
+        margin-top:15%;
+        gap: 2rem;
+       
+    }
+    .middle_1 .left_1{
+        width: 100%;
+        /* height: 50%; */
+       justify-content:space-around;
+    }
+    
+    .form{
+    width: 80%;
+    height: 50vh;
+  
+    top:2%;
+    left: 10%;  
+}
+.rare{
+    width:35%;  
+}
+.carts{
+   top: 14%;
+   right: 7%;
+   transition: .1s ease-in-out 4s;
+   transform:translateX(310px);
+   align-items: center;
+    width: 80%;
+}
+.but button{
+    padding: 10px;
+  font-size: 15px;
+}
+.heading{
+    height: 35%;
+}
+    .left_1 h1{
+    font-size: 60px;
+ 
+   
+}
+.left_1 p{
+    width: 100%;
+}
+.left_1  .size{
+ width:15%;
+ 
+}
+    .right_1{
+    /* border: 1px solid green; */
+    width: 100%;
+    /* height: 50%; */
+}
+.right_1 img{
+    height: 500px;
+}
+
+.middlesec_2{
+   
+height: auto;
+
+}
+.work{
+    font-size: 40px;
+   margin-top: 0;
+}
+.same{
+    width: 80%;
+}
+
+.middlesec_3{
+    height: auto;
+    
+}
+.same2{
+    width: 80%;
+    height: 11%;
+ align-items: center;
+    
+}
+.same2 img{
+ 
+    width: 80%;
+}
+.same2 h1{
+    font-size: 20px;
+}
+.same2 p{
+height: 10%;
+margin-bottom: 10%;
+}
+.same2 button{
+    margin-bottom: 5%;
+}
+
+.menu{
+  
+    gap:1rem;
+}
+.middlesec_4{
+    margin-top:10%;
+}
+.left_two{
+    width: 100%;
+}
+.left_two img{
+    width: 80%;
+    height: 400px;
+}
+.right_two{
+    width: 100%;
+}
+.card{
+    width: 100%;
+}
+.left_3{
+    width: 100%;
+}
+.left_3 img{
+    height: 380px;
+    padding: auto;
+}
+.right_3{
+    width: 100%; 
+   align-items: center;  
+}
+.right_3 h3{
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+.right_3 h1{
+    font-size: 35px;
+    text-align: center;
+}
+.right_3 p{
+    width: 100%;
+    text-align: center;
+}
+.right_3 .app_btn{
+    width: 40%;
+    margin-bottom: 10px;
+}
+.middlesec_5{
+    justify-content: space-around;
+   width: 90%;
+   margin-left: 5%;
+    gap: 0;
+}
+.middlesec_6{
+    margin-top: 8%;
+}
+.middlesec_6 h1{
+    font-size: 25px;
+}
+.middlesec_6 h3{
+    font-size: 15px;
+}
+.middlesec_6 p{
+    width: 100%;
+}
+.middlesec_6 .subscribe{
+    width: 80%;
+}
+.subscribe button{
+    padding: 10px;
+    width: 30%;
+}
+.footer{
+    height: auto;
+gap: 2rem;
+margin-top: 10%;
+}
+.foodie{
+    width: 70%;
+}
+.foodie .sizes{
+    width: 20%;
+}
+.foodie p{
+    width: 100%;
+}
+.lasts{
+    width: 90%;
+    margin-bottom: 10px;
+}
+.equal h1{
+    font-size: 20px;
+}
+.equal a{
+    font-size: 12px;
+}
+}
+
+@media (max-width:365px) {
+    .left_1 h1{
+   font-size: 50px;
+  
+   
+   
+}
+.heading{
+    height: 40%;
+}
+
+    .middle_1 .left_1{
+        width: 100%;
+        height: 40%;
+      
+    }
+    .middle_1{
+       margin-top:23%;
+       
+    }
+     .right_1{
+   
+    height: 55%;
+}
+.right_1 img{
+    height: 400px;
+}
+.work{
+    font-size: 30px;
+  
+}
+.Speciality{
+   margin-top: 5%;
+  
+}
+.same{
+    width: 100%;
+}
+.same h1{
+    font-size: 25px;
+}
+.middlesec_3 .popular{
+    font-size: 30px;
+}
+.menu{
+    height: 75%;
+    
+}
+.review h1{
+    font-size: 35px;
+}
+.review h3{
+    font-size: 15px;
+}
+.left_two img{
+    width: 80%;
+    height: 350px;
+}
+.left_3 img{
+   width: 90%;
+   padding: 20px;
+   height: 350px;
+}
+.right_3 h1{
+    font-size: 30px;
+}
+.right_3 h3{
+    font-size: 15px;
+}
+.right_3 .app_btn{
+    width: 50%;
+}
+.middlesec_6 .subscribe{
+    width: 90%;
+}
+.middlesec_6 h1{
+    font-size: 22px;
+}
+.footer{
+    margin-top: 15%;
+}
+.lasts{
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.lasts .equal{
+    width: 100%;
+    align-items: center;
+}
+.equal h1{
+    font-size: 30px;
+}
+.equal a{
+    font-size: 15px;
+}
+.middlesec_6 p{
+    width: 80%;
+    text-align: center;
+}
+}
+
+@media (min-width:1205px) {
+   .middle_1{
+    margin-top: 8%;
+} 
+.right_3{
+    width: 50%;
+}
+.left_3 img{
+    width: 100%;
+}
+ .left_1 h1{
+    font-size: 70px;
+    margin-bottom: 0;
+    }
+   
+     .right_1 img{
+  
+    height: 520px;
+}
+}
+
+@media (max-width:1205px)and (min-width:900px) {
+    .navbar{
+        width: 50%;
+    }
+    .navbar a{
+        font-size: 20px;
+    }
+    .left_1 h1{
+    font-size: 70px;
+    margin-bottom: 0;
+    }
+.middle_1{
+    margin-top: 10%;
+}
+.carts{
+    width: 30%;
+    right: 0;
+    top:14%
+}
+.form{
+    width: 50%;
+    left: 25%;
+}
+     .middle_1 .left_1{
+      
+      width: 50%;
+       
+    }
+    .right_1{
+   
+    width: 45%;
+    
+}
+    .right_1 img{
+  
+    height: 500px;
+}
+
+.same2 h1{
+    font-size: 20px;
+}
+.same2 button{
+    width: 60%;
+   
+}
+.middlesec_5{
+    width: 90%;
+     margin-left: 5%;
+    justify-content: space-around;
+}
+.left_3 img{
+    width: 100%;
+}
+.right_3{
+    width: 50%;
+}
+.right_3 h1{
+   font-size: 50px;
+   
+}
+.right_3 p{
+    width: 90%;
+}
+.foodie p{
+    width: 70%;
+}
+}
+@media (max-width:900px)and (min-width:750px){   
+    .navbar{
+        width: 55%;
+       
+    }
+    .navbar a{
+        font-size: 18px;
+    }
+    .carts{
+    width: 35%;
+    right: 0;
+    top:14%
+}
+.form{
+    width: 60%;
+    left: 20%;
+    top: 3%;
+}
+    .middle_1{
+    margin-top: 12%;
+}
+.left_1 h1{
+    font-size: 60px;
+    margin-bottom: 0;
+    }
+     .middle_1 .left_1{
+      
+      width: 50%;
+       
+    }
+     .right_1{
+   
+    width: 45%;
+    
+}
+    .right_1 img{
+  
+    height: 400px;
+}
+.same{
+    width: 30%; 
+}
+.same2{
+    width: 40%;
+   
+    
+}
+.left_two{
+    width: 80%;
+}
+.right_two{
+    width: 80%;
+}
+.middlesec_5{
+    width: 90%;
+     margin-left: 5%;
+    justify-content: space-around;
+  
+}
+.right_3{
+    width: 50%;
+}
+.right_3 h1{
+   font-size: 40px;
+   
+}
+.right_3 p{
+    width: 90%;
+}
+.left_3 img{
+    width: 100%;
+    height: 400px;
+}
+.right_3 .app_btn{
+    width: 35%;
+}
+.middlesec_6 p{
+    width: 50%;
+    text-align: center;
+}
+.middlesec_6 .subscribe{
+    width: 50%;
+}
+.equal h1{
+    font-size:30px;
+}
+.foodie p{
+    width: 70%;
+}
+.foodie .sizes{
+    width: 15%;
+}
+}
+@media (max-width:750px)and (min-width:600px) {
+     .navbar{
+       display: none; 
+    }
+    .header{
+        justify-content: space-between;
+    }
+     .carts{
+    width:45%;
+    right: 0;
+     top:14%
+}
+.form{
+    width: 70%;
+    left: 15%;
+    top: 3%;
+}
+.navbar2{
+    width: 60%;
+    left: 20%;
+}
+     .login #hide{
+        display: block;
+        font-size: 27px;
+        
+    }
+    .login button{
+        display: none;
+    }
+    .middle_1{
+    margin-top: 15%;
+}
+.left_1 .button_sec{
+
+width: 100%;
+
+}
+.left_1 h1{
+    font-size: 42px;
+    margin-bottom: 0;
+    }
+     .middle_1 .left_1{
+      
+      width: 45%;
+       
+    }
+    .left_1  .size{
+   
+    width:15%;
+   
+}
+     .right_1{
+   
+    width:50%;
+    
+}
+    .right_1 img{
+  
+    height: 400px;
+}
+.same{
+    width: 30%; 
+}
+.same h1{
+    font-size: 25px;
+}
+.same2{
+    width: 40%;
+   
+    
+}
+.left_two{
+    width: 80%;
+}
+.right_two{
+    width: 80%;
+}
+.middlesec_5{
+    width: 90%;
+     margin-left: 5%;
+    justify-content: space-around;
+   
+}
+.right_3{
+    width: 50%;
+}
+.right_3 h1{
+   font-size: 35px;
+   
+}
+.right_3 p{
+    width: 90%;
+}
+.left_3 img{
+    width: 100%;
+    height: 350px;
+}
+.right_3 .app_btn{
+    width: 40%;
+}
+.middlesec_6 h1{
+    margin-top: 0;
+    font-size: 40px;
+}
+.middlesec_6 p{
+    width: 50%;
+    text-align: center;
+}
+.middlesec_6 .subscribe{
+    width: 60%;
+}
+.equal h1{
+    font-size:20px;
+}
+.foodie .sizes{
+    width: 18%;
+}
+.foodie p{
+    width: 70%;
+}
+.foodie h1{
+    margin-top: 5%;
+}
+}
+@media (max-width:600px)and (min-width:450px) {
+     .navbar{
+       display: none; 
+    }
+    .header{
+        justify-content: space-between;
+    }
+      .carts{
+    width:60%;
+    right: 0;
+     top:14%
+}
+.form{
+    width: 70%;
+    left: 15%;
+    top: 3%;
+}
+.navbar2{
+    width: 60%;
+    left: 20%;
+    top: 1.5%;
+}
+     .login #hide{
+        display: block;
+        font-size: 27px;
+        
+    }
+    .login button{
+        display: none;
+    }
+    .middle_1{
+    margin-top: 15%;
+   gap: 2rem;
+}
+.left_1 .button_sec{
+
+width: 100%;
+
+}
+.left_1 h1{
+    font-size: 42px;
+    margin-bottom: 0;
+    }
+     .middle_1 .left_1{
+      
+      width:90%;
+       
+    }
+    .left_1  .size{
+   
+    width:15%;
+   
+}
+     .right_1{
+   
+    width:90%;
+    
+}
+    .right_1 img{
+  
+    height: 400px;
+}
+.same{
+    width: 90%; 
+}
+.same h1{
+    font-size: 25px;
+}
+.same2{
+    width: 40%;    
+}
+.same2 h1{
+    font-size: 20px;
+}
+.same2 button{
+    width: 50%;
+}
+.middlesec_4{
+    margin-top: 10%;
+}
+.left_two{
+    width: 80%;
+}
+.left_two img{
+    height:400px;
+}
+.right_two{
+    width: 80%;
+}
+.card{
+    width: 100%;
+}
+.middlesec_5{
+    width: 90%;
+     margin-left: 5%;
+    justify-content: space-around;
+  
+    gap: 1rem;
+}
+.right_3{
+    width: 90%;
+    align-items: center;
+    gap: 1rem;
+}
+.left_3{
+    width: 80%;
+}
+.right_3 h1{
+   font-size: 35px;
+   text-align: center;
+   
+}
+.right_3 p{
+    width: 90%;
+    text-align: center;
+}
+.left_3 img{
+    width: 80%;
+    height: 350px;
+     
+}
+.right_3 .app_btn{
+    width: 40%;
+    margin-bottom: 2%;
+}
+ 
+.middlesec_6 h1{
+    margin-top: 0;
+    font-size: 30px;
+}
+.middlesec_6 p{
+    width: 80%;
+    text-align: center;
+}
+.middlesec_6 .subscribe{
+    width: 80%;
+}
+.equal h1{
+    font-size:30px;
+}
+.equal p{
+    font-size: 25px;
+}
+.footer{
+    gap: 1rem;
+}
+.foodie{
+    width: 100%;
+    align-items: center;
+}
+.lasts{
+    width: 80%;
+    gap: 1rem;
+}
+.lasts .equal{
+    width: 100%;
+    align-items: center;
+}
+.foodie .icon{
+    width:70%;
+    display: flex;
+    justify-content:space-between;
+}
+.foodie .sizes{
+    width:18%;
+    font-size: 1.5rem;
+}
+.foodie p{
+    width: 70%;
+}
+.foodie h1{
+    margin-top: 5%;
+}
+}
